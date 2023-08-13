@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "902993306769",
+    "firebase_url": "https://flutter-adv-basics-default-rtdb.firebaseio.com",
+    "project_id": "flutter-adv-basics",
+    "storage_bucket": "flutter-adv-basics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902993306769:android:3687dc6b7484f3e1ec8b30",
+        "android_client_info": {
+          "package_name": "com.example.adv_basics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ncrZnqv8VD1w3UuZx4iP5pU-p6f5HwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
